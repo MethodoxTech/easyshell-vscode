@@ -4,7 +4,8 @@
   "description": "Syntax highlighting for EasyShell files.",
   "repository": "github:MethodoxTech/easyshell-vscode",
   "version": "0.0.1",
-  "publisher": "your-publisher-name",
+  "publisher": "methodox",
+  "icon": "EasyShell.png",
   "engines": {
     "vscode": "^1.90.0"
   },
