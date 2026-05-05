@@ -3,7 +3,7 @@
   "displayName": "EasyShell",
   "description": "Syntax highlighting for EasyShell files.",
   "repository": "github:MethodoxTech/easyshell-vscode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "methodox",
   "icon": "EasyShell.png",
   "engines": {
@@ -18,7 +18,8 @@
         "id": "easyshell",
         "aliases": [
           "EasyShell",
-          "easyshell"
+          "easyshell",
+          "easy"
         ],
         "extensions": [
           ".easy"
@@ -31,6 +32,16 @@
         "language": "easyshell",
         "scopeName": "source.easy",
         "path": "./syntaxes/easy.tmLanguage.json"
+      },
+      {
+        "scopeName": "markdown.easy.codeblock",
+        "path": "./syntaxes/easy-markdown.injection.json",
+        "injectTo": [
+          "text.html.markdown"
+        ],
+        "embeddedLanguages": {
+          "meta.embedded.block.easyshell": "easyshell"
+        }
       }
     ]
   }
