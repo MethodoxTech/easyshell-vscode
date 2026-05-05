@@ -35,3 +35,7 @@ For markdown code block fence syntax highlight, `syntaxes\easy-markdown.injectio
 * v0.0.1: Initial setup.
 * v0.0.2: Markdown code fence block syntax support.
 * v0.0.3: Update README; Add links to EasyShell source.
+
+## Links
+
+* [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Methodox.easyshell)
