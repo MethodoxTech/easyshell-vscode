@@ -39,3 +39,4 @@ For markdown code block fence syntax highlight, `syntaxes\easy-markdown.injectio
 ## Links
 
 * [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Methodox.easyshell)
+* [Methodox Tutorials on EasyShell (YouTube)](https://www.youtube.com/playlist?list=PLZFRaSxvnUEdnlB1-spH2cDQ-Paq3P3gZ)
