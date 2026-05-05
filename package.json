@@ -3,7 +3,7 @@
   "displayName": "EasyShell",
   "description": "Syntax highlighting for EasyShell files.",
   "repository": "github:MethodoxTech/easyshell-vscode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "methodox",
   "icon": "EasyShell.png",
   "engines": {
